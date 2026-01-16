@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+![TAGC logo](https://tagc.univ-amu.fr/sites/default/files/styles/actu_300x200/public/2024-11/logo_tagc_sans_fond_0.png)
+
 
 ## **TAGC - Theories and Approaches of Genomic Complexity - GitHub repository**
 
