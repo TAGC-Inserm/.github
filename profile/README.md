@@ -31,7 +31,7 @@ Delve into our repositories to discover research projects, tools, and resources 
 * **TAGOOS** [https://github.com/aitgon/tagoos](https://github.com/aitgon/tagoos)
 * **ChagasDB** [https://github.com/TAGC-ComplexDisease/ChagasDB](https://github.com/TAGC-ComplexDisease/ChagasDB)
 * **MetaWorkflow TGML** [https://github.com/TGMLplatform/mw-tgml](https://github.com/TGMLplatform/mw-tgml)
-  
+* **ClustnSee 3** [https://github.com/fafa13/ClustnSee-3](https://github.com/fafa13/ClustnSee-3)
 
 ### Research Papers Repositories
 
