@@ -31,6 +31,9 @@ Delve into our repositories to discover research projects, tools, and resources 
 * **TAGOOS** [https://github.com/aitgon/tagoos](https://github.com/aitgon/tagoos)
 * **ChagasDB** [https://github.com/TAGC-ComplexDisease/ChagasDB](https://github.com/TAGC-ComplexDisease/ChagasDB)
 * **MetaWorkflow TGML** [https://github.com/TGMLplatform/mw-tgml](https://github.com/TGMLplatform/mw-tgml)
+* **BactMentha workflow** [https://github.com/TAGC-NetworkBiology/BactMentha] (https://github.com/TAGC-NetworkBiology/BactMentha)
+* **BactMentha DB** [https://github.com/TAGC-NetworkBiology/BactMentha-DB] (https://github.com/TAGC-NetworkBiology/BactMentha-DB)
+* **DESwoMAN** [https://github.com/AnnaGrBio/DESWOMAN] (https://github.com/AnnaGrBio/DESWOMAN)
   
 
 ### Research Papers Repositories
