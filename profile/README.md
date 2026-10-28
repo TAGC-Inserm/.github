@@ -22,6 +22,7 @@ This page brings together code developed by TAGC researchers and collaborators, 
 | ReMap | Processing workflows for integrated transcriptional regulator binding maps. | [Pipeline](https://github.com/remap-cisreg/remap-pipeline) · [ReMap 2022 data](https://zenodo.org/records/10527088) · [mESC ChIP-seq bigWig tracks, mm10 (Recherche Data Gouv)](https://doi.org/10.57745/GEIHVN) |
 | pygtftk | Toolkit for working with GTF genome annotations. | [GitHub](https://github.com/dputhier/pygtftk) |
 | libgtftk | Library supporting GTF annotation processing. | [GitHub](https://github.com/dputhier/libgtftk) |
+| STarlight | Grid-based exploration and comparison of imaging-based spatial transcriptomics data. | [GitHub](https://github.com/dputhier/STarlight) · [Documentation](https://dputhier.github.io/STarlight/) · [Case-study scripts](https://github.com/dputhier/STarlight_article) |
 | SciGeneX | Co-expression gene module detection in single-cell and spatial transcriptomics. | [GitHub](https://github.com/dputhier/scigenex) · [Reproduction environment](https://zenodo.org/records/12801381) |
 | LedPred | Supervised prediction of regulatory sequences from sequence features and genomic annotations. | [GitHub](https://github.com/aitgon/LedPred) · [Study data](https://github.com/aitgon/LedPreddat) |
 | TAGOOS | Scoring intronic and intergenic variants using regulatory annotations and machine learning. | [GitHub](https://github.com/aitgon/tagoos) |
@@ -57,14 +58,17 @@ Analysis repositories and archives supporting individual papers and manuscripts.
 
 | Study or project | Analysis focus | Code and supporting resources |
 | --- | --- | --- |
+| Epromoter genetic variation | Mapping regulatory variants at Epromoters and their pleiotropic associations with disease traits. | [GitHub](https://github.com/jing-wan/Epromoter_GWAS) · [Paper](https://doi.org/10.1093/nar/gkae1270) · [Code and data](https://zenodo.org/records/11061660) |
+| OLOGRAM-MODL | Enrichment of combinations of genomic features using Monte Carlo and dictionary learning; implemented in pygtftk. | [Reproduction workflow and data](https://github.com/qferre/ologram-modl_supp_mat) · [Paper](https://doi.org/10.1093/nargab/lqab114) |
+| Gut microbiome effector-host interactome | Type III secretion systems, host interactions and immune modulation; Nature Microbiology, 2026. | [Paper](https://doi.org/10.1038/s41564-025-02241-y) · [Interaction data](https://zenodo.org/records/11400863) · [Structural analysis code](https://zenodo.org/records/11951539) · [Network analysis resources](https://zenodo.org/records/12743976) |
 | ExonEnhancer | Identification and characterisation of exonic enhancers across species. | [GitHub](https://github.com/benoitballester/ExonEnhancer) · [Code v3, 2026](https://zenodo.org/records/18255062) · [Data](https://zenodo.org/records/17208730) |
 | InteractORF | Analysis scripts for *A functional landscape of human microproteins*, including interaction networks and functional inference. | [GitHub](https://github.com/TAGC-NetworkBiology/InteractORF) |
 | RNA Pol II Atlas | Intergenic transcription at RNA polymerase II binding sites in normal and cancer tissues. | [GitHub](https://github.com/benoitballester/Pol2Atlas) · [Input data](https://zenodo.org/records/7785393) · [Output data (Zenodo)](https://zenodo.org/records/8091826) · [Output data (Recherche Data Gouv)](https://doi.org/10.57745/ONGXGD) |
-| Epromoter-regulated gene clusters | Identification of Epromoter-like clusters using RNA-seq and ChIP-seq data. | [GitHub](https://github.com/Spicuglia-Lab/Epromoter-like-cluster-pipeline) · [Study data](https://zenodo.org/records/14211588) |
+| Epromoter-regulated gene clusters | Identification of Epromoter-like clusters using RNA-seq and ChIP-seq data. | [GitHub](https://github.com/Spicuglia-Lab/Epromoter-like-cluster-pipeline) · [Study data](https://zenodo.org/records/14211588) · [Paper](https://doi.org/10.1038/s44318-025-00670-3) · [Web tool](https://epromoters.tagc.univ-amu.fr) |
 | ArchiHeart | Genetic architecture of natural variation in cardiac performance in flies. | [GitHub](https://github.com/TAGC-NetworkBiology/ArchiHeart) · [Data and containers](https://zenodo.org/records/5582846) |
 | RAINET-RNA | RAINET-RNA study resources. | [GitHub](https://github.com/TAGC-Brun/RAINET-RNA) |
-| biomarkersChagas | Chagas disease biomarker study. | [GitHub](https://github.com/TAGC-ComplexDisease/biomarkersChagas) |
-| epiChagas | Chagas disease epistasis study. | [GitHub](https://github.com/TAGC-ComplexDisease/epiChagas) |
+| biomarkersChagas | Blood DNA methylation biomarkers distinguishing clinical forms of Chagas cardiomyopathy. | [GitHub](https://github.com/TAGC-ComplexDisease/biomarkersChagas) |
+| epiChagas | Transcriptomic and DNA methylation analyses of Chagas cardiomyopathy and transcription factor binding. | [GitHub](https://github.com/TAGC-ComplexDisease/epiChagas) |
 
 ### Additional analysis code on Zenodo
 
